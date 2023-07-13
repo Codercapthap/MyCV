@@ -60,8 +60,9 @@ body {
 }
 .name .contact li {
   padding: 5px 0;
-  transform: translate(-40px);
   background-color: #e9e7ea;
+  display: flex;
+  align-items: center;
 }
 
 .name .contact li a {
