@@ -2,6 +2,7 @@
 .icon-user:before { content: '\e800'; } /* '' */
 .icon-location:before { content: '\e801'; } /* '' */
 .icon-phone:before { content: '\e802'; } /* '' */
-.icon-calendar:before { content: '\e809'; } /* '' */
+.icon-calendar:before { content: '\e803'; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-github-squared:before { content: '\f300'; } /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; } /* '' */
