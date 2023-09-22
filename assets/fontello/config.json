@@ -47,6 +47,12 @@
       "css": "linkedin-squared",
       "code": 62220,
       "src": "fontawesome"
+    },
+    {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59396,
+      "src": "fontawesome"
     }
   ]
 }
