@@ -18,6 +18,14 @@ body {
   row-gap: 30px;
 }
 
+.time {
+  padding: 0 0 10px 0;
+}
+
+.item .des {
+  padding: 5px 0;
+}
+
 .avatar img {
   width: 200px;
   height: 200px;
@@ -115,7 +123,7 @@ h2 {
   margin: 20px 0 10px;
 }
 .project .web {
-  padding: 10px 0;
+  /* padding: 10px 0; */
 }
 
 .project .web a {
